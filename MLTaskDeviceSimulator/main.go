@@ -28,7 +28,7 @@ const slamVideoName = "input.mp4"
 
 const fusionImageDir = "fusion/data/00/"
 const fusionImageName = "input.png"
-
+//test
 const detImageDir = "det/data/00/"
 const detImageName = "input.png"
 
